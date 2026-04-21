@@ -5,6 +5,7 @@
     "tailwindcss": "^4.2.3"
   },
   "dependencies": {
+    "@zxing/library": "^0.21.3",
     "tesseract.js": "^7.0.0"
   }
 }
